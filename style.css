@@ -1,71 +1,38 @@
-.img {
-    width: 350px;
-    margin: auto;
-}
-
-.nav {
-    
+.googleimg {
     display: block;
-    text-align: center;    
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#tableone {
-    margin: auto;
-    width: 90%;
-    text-align: center;    
-}
-
-/* #tbodyone {
-    display: table-row-group;
-    vertical-align: middle;   
-} */
-
-/* #trone {
-    display: table-row;
-    vertical-align: inherit;
-} */
-
-#tdone {
-    /* display: table-cell;
-    vertical-align: inherit; */
-    background-color: rgb(238, 238, 238);
-    text-align: center;  
-}
-
-/* #divone {
-    
-    display: block;
-} */
-
-#search {
-    width: 27%;
-    padding: 1px 2px;
-}
-
-/* #trtwo {
-    display: table-row;
-} */
-
-#tdtwo {
-    width: 37%;
-    background-color: rgb(126, 229, 218);
+.center {
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
-    padding: 10px 0px;
-    /* display: table-cell;
-    text-align: start; */
 }
 
-/* #divtwo {
-    display: block;
+.firstrow {
+    background-color: #EEEEEE;
     
-} */
-
-#tdthree {    
-    background-color: rgb(112, 204, 194); 
-    text-align: center; 
 }
 
-/* #divthree {
-    display: block;
-     
-} */
+.secondrow {
+    background-color: #7EE5DA;
+    width: 37%;
+    clear: none;
+}
+
+.thirdrow {
+    background-color: #70CCC2;
+    font-size: small;
+}
+
+.fourthrow {
+    background-color: #62B3AA;
+    font-size: small;
+    width: 37%;
+}
+    
+.footer {
+    text-align: center;
+    font-size: small;
+}
